@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://GiuDiCri.github.io/TMDRA/manifests/gdc_longo_manifest.json",
     "label" : "emotions"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://GiuDiCri.github.io/TMDRA/manifests/gdclongomanifest.json",
+    "label" : "emotions"
   } ]
 }
