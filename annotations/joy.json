@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "cat",
+      "@type" : "oa:Tag",
+      "chars" : "cat"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "joy",
+      "@type" : "oa:Tag",
+      "chars" : "joy"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "joy",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>joy</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151856616",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-06-14T10:29:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1718360968028",
+    "dcterms:modified" : "2024-06-14T10:29:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GiuDiCri.github.io/TMDRA/manifests/GDCLongomanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2437,291,2796,2449"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2436.87179,291.28205h1397.94872v0h1397.94872v1224.29487v1224.29487h-1397.94872h-1397.94872v-1224.29487z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2a4a7803-5219-4925-85ca-472214f92185\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c113bcfd-9af7-4dbb-aef9-de96213130c2"
+    } ]
+  } ],
+  "@id" : "https://GiuDiCri.github.io/TMDRA/annotations/joy.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
