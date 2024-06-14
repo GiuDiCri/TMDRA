@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "cat",
+      "@type" : "oa:Tag",
+      "chars" : "cat"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "fear",
+      "@type" : "oa:Tag",
+      "chars" : "fear"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "fear",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>fear</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/151856616",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-06-14T10:28:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1718360920416",
+    "dcterms:modified" : "2024-06-14T10:28:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://GiuDiCri.github.io/TMDRA/manifests/GDCLongomanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2157,401,2643,2643"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2157.18396,400.91453h1321.47619v0h1321.47619v1321.47619v1321.47619h-1321.47619h-1321.47619v-1321.47619z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a0495d79-7054-4fa2-ba68-8b43cc7d0215\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://225e4eff-675b-45f8-98ea-5bf7858d8215"
+    } ]
+  } ],
+  "@id" : "https://GiuDiCri.github.io/TMDRA/annotations/fear.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
