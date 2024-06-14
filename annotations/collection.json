@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://GiuDiCri.github.io/TMDRA/annotations/anger.json", "https://GiuDiCri.github.io/TMDRA/annotations/anticipation.json" ],
+  "otherContent" : [ "https://GiuDiCri.github.io/TMDRA/annotations/anger.json", "https://GiuDiCri.github.io/TMDRA/annotations/anticipation.json", "https://GiuDiCri.github.io/TMDRA/annotations/63bf5aace585a094317617235c9b5a09.json" ],
   "@id" : "https://GiuDiCri.github.io/TMDRA/annotations/collection.json",
   "label" : "All annotations loaded in GiuDiCri/TMDRA project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
