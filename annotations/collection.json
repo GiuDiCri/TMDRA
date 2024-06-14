@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://GiuDiCri.github.io/TMDRA/annotations/anger.json", "https://GiuDiCri.github.io/TMDRA/annotations/anticipation.json", "https://GiuDiCri.github.io/TMDRA/annotations/disgust.json", "https://GiuDiCri.github.io/TMDRA/annotations/fear.json", "https://GiuDiCri.github.io/TMDRA/annotations/joy.json", "https://GiuDiCri.github.io/TMDRA/annotations/love.json", "https://GiuDiCri.github.io/TMDRA/annotations/optimism.json", "https://GiuDiCri.github.io/TMDRA/annotations/pessimism.json", "https://GiuDiCri.github.io/TMDRA/annotations/sadness.json" ],
+  "otherContent" : [ "https://GiuDiCri.github.io/TMDRA/annotations/anger.json", "https://GiuDiCri.github.io/TMDRA/annotations/anticipation.json", "https://GiuDiCri.github.io/TMDRA/annotations/disgust.json", "https://GiuDiCri.github.io/TMDRA/annotations/fear.json", "https://GiuDiCri.github.io/TMDRA/annotations/joy.json", "https://GiuDiCri.github.io/TMDRA/annotations/love.json", "https://GiuDiCri.github.io/TMDRA/annotations/optimism.json", "https://GiuDiCri.github.io/TMDRA/annotations/pessimism.json", "https://GiuDiCri.github.io/TMDRA/annotations/sadness.json", "https://GiuDiCri.github.io/TMDRA/annotations/surprise.json" ],
   "@id" : "https://GiuDiCri.github.io/TMDRA/annotations/collection.json",
   "label" : "All annotations loaded in GiuDiCri/TMDRA project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
